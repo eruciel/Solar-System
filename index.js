@@ -191,47 +191,47 @@ function allEvent() {
     sun.metadata = {
         name: 'sun',
         description: 'The second planet from the Sun. It is named after the Roman goddess of love and beauty.',
-        imageSrc: './assets/pearth.png',
+        imageSrc: './assets/psun.png',
     };
     mercury.mesh.metadata = {
         name: 'mercury',
-        description: 'The second planet from the Sun. It is named after the Roman goddess of love and beauty.',
-        imageSrc: './assets/pearth.png',
+        description: 'Closest to the Sun, extreme temperatures, minimal atmosphere.',
+        imageSrc: './assets/pmercury.png',
     };
     venus.mesh.metadata = {
         name: 'Venus',
         description: 'The second planet from the Sun. It is named after the Roman goddess of love and beauty.',
-        imageSrc: './assets/pearth.png',
+        imageSrc: './assets/pvenus.png',
     };
     earth.mesh.metadata = {
         name: 'earth',
-        description: 'The second planet from the Sun. It is named after the Roman goddess of love and beauty.',
+        description: 'Only known planet with life, diverse ecosystems, abundant liquid water.',
         imageSrc: './assets/pearth.png',
     };
     mars.mesh.metadata = {
         name: 'mars',
-        description: 'The second planet from the Sun. It is named after the Roman goddess of love and beauty.',
-        imageSrc: './assets/pearth.png',
+        description: 'Reddish appearance, thin atmosphere, evidence of past liquid water, ongoing exploration.',
+        imageSrc: './assets/pmars.png',
     };
     jupiter.mesh.metadata = {
         name: 'jupiter',
-        description: 'The second planet from the Sun. It is named after the Roman goddess of love and beauty.',
-        imageSrc: './assets/pearth.png',
+        description: 'Largest planet, strong magnetic field, numerous moons, prominent bands of clouds.',
+        imageSrc: './assets/pjupiter.png',
     };
     saturn.mesh.metadata = {
         name: 'saturn',
-        description: 'The second planet from the Sun. It is named after the Roman goddess of love and beauty.',
-        imageSrc: './assets/pearth.png',
+        description: 'Spectacular ring system, second-largest planet, diverse moons.',
+        imageSrc: './assets/psaturn.png',
     };
     uranus.mesh.metadata = {
         name: 'uranus',
-        description: 'The second planet from the Sun. It is named after the Roman goddess of love and beauty.',
-        imageSrc: './assets/pearth.png',
+        description: 'Tilted on its side, unique rotational behavior, icy composition.',
+        imageSrc: './assets/puranus.png',
     };
     neptune.mesh.metadata = {
         name: 'neptune',
-        description: 'The second planet from the Sun. It is named after the Roman goddess of love and beauty.',
-        imageSrc: './assets/pearth.png',
+        description: 'Deep blue color, strong winds, large dark storm known as the Great Dark Spot (similar to Jupiter Great Red Spot).',
+        imageSrc: './assets/pneptune.png',
     };
     
     function onPlanetClick() {
